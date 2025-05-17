@@ -1,1 +1,57 @@
 
+* {
+    font-family: Verdana, sans-serif;
+}
+
+body {
+    background-color: black;
+    
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: white;
+
+}
+
+div {
+    margin:auto;
+    text-align: center;
+}
+
+div video {
+
+    display: block;
+    margin:auto
+}
+
+div a {
+    font-size: 16px;
+    color: aquamarine;
+    
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    color:white;
+    text-align: center;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+div img {
+    margin-bottom: 20px;
+}
+
+footer {
+    font-size: 16px;
+    color: gray;
+    text-align: right;
+    margin-top: 20px;
+}
